@@ -86,4 +86,4 @@ void init_pwm(void);
 void update_pwm_timeslots(void);
 void update_brightness(void);
 
-#endif
+#endif;
